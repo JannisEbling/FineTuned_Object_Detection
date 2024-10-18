@@ -1,7 +1,0 @@
-model:
-  name: facebook/detr-resnet-50
-  batch_size: 32
-
-data_transformation:
-  - name: ImageAugmentor
-    batch_size: 32
